@@ -39,9 +39,11 @@ All entries in `README.md` follow a Markdown table format:
 | Commercial Software | Open-source Alternative |
 |---|---|
 | Commercial Product Name | [Alternative Name](https://official-link-or-repo/) |
+| Commercial Product Name | [Alternative 1](url), [Alternative 2](url) |
 ```
 
 - Link to either the official project homepage or the primary open-source Git repository.
+- Multiple high-quality alternatives can be listed for a single commercial product, separated by commas.
 - Avoid tracking parameters or affiliate links in URLs.
 
 ---
@@ -78,3 +80,4 @@ All entries in `README.md` follow a Markdown table format:
 ## Code of Conduct
 
 Please note that this project is released with a Contributor [Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+
