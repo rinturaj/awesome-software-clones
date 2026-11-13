@@ -11,6 +11,7 @@ Discover open-source projects that replicate, replace, or provide similar functi
 - [Video & Audio](#video--audio)
 - [Productivity](#productivity)
 - [Developer Tools](#developer-tools)
+- [Testing & QA](#testing--qa)
 - [Automation](#automation)
 - [Marketing & SEO](#marketing--seo)
 - [Business & CRM](#business--crm)
@@ -66,11 +67,23 @@ Discover open-source projects that replicate, replace, or provide similar functi
 
 | Commercial Software | Open-source Alternative |
 |---|---|
-| Postman | [Bruno](https://github.com/usebruno/bruno), [Hoppscotch](https://hoppscotch.com/) |
+| Postman | [Bruno](https://github.com/usebruno/bruno), [Hoppscotch](https://hoppscotch.com/), [Yaak](https://yaak.app/) |
 | TablePlus | [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) |
 | DataGrip | [DBeaver](https://github.com/dbeaver/dbeaver) |
 | Charles Proxy | [mitmproxy](https://github.com/mitmproxy/mitmproxy) |
 | GitHub | [Forgejo](https://forgejo.org/), [Gitea](https://gitea.com/) |
+
+## Testing & QA
+
+| Commercial Software | Open-source Alternative |
+|---|---|
+| Postman / Insomnia | [Bruno](https://github.com/usebruno/bruno), [Hoppscotch](https://hoppscotch.com/), [Yaak](https://yaak.app/) |
+| ReadyAPI / SoapUI Pro | [FlexiBerry](https://flexiberry.dev/), [SoapUI](https://www.soapui.org/), [Karate](https://github.com/karatelabs/karate) |
+| Katalon Studio | [FlexiBerry](https://flexiberry.dev/), [Karate](https://github.com/karatelabs/karate), [REST Assured](https://rest-assured.io/) |
+| BlazeMeter / LoadNinja | [k6](https://github.com/grafana/k6), [Locust](https://github.com/locustio/locust), [Apache JMeter](https://jmeter.apache.org/) |
+| Stoplight | [Mockoon](https://mockoon.com/), [Prism](https://github.com/stoplightio/prism) |
+| PactFlow | [Pact](https://pact.io/) |
+| BrowserStack / Sauce Labs | [Playwright](https://playwright.dev/), [Selenium](https://www.selenium.dev/) |
 
 ## Automation
 
