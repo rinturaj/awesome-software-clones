@@ -67,7 +67,7 @@ Discover open-source projects that replicate, replace, or provide similar functi
 
 | Commercial Software | Open-source Alternative |
 |---|---|
-| Postman | [Bruno](https://github.com/usebruno/bruno), [Hoppscotch](https://hoppscotch.com/), [Yaak](https://yaak.app/) |
+| Postman | [Bruno](https://github.com/usebruno/bruno), [Hoppscotch](https://hoppscotch.com/), [HTTPie](https://httpie.io/), [Yaak](https://yaak.app/) |
 | TablePlus | [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) |
 | DataGrip | [DBeaver](https://github.com/dbeaver/dbeaver) |
 | Charles Proxy | [mitmproxy](https://github.com/mitmproxy/mitmproxy) |
@@ -77,7 +77,7 @@ Discover open-source projects that replicate, replace, or provide similar functi
 
 | Commercial Software | Open-source Alternative |
 |---|---|
-| Postman / Insomnia | [Bruno](https://github.com/usebruno/bruno), [Hoppscotch](https://hoppscotch.com/), [Yaak](https://yaak.app/) |
+| Postman / Insomnia | [Bruno](https://github.com/usebruno/bruno), [Hoppscotch](https://hoppscotch.com/), [HTTPie](https://httpie.io/), [Yaak](https://yaak.app/) |
 | ReadyAPI / SoapUI Pro | [FlexiBerry](https://flexiberry.dev/), [SoapUI](https://www.soapui.org/), [Karate](https://github.com/karatelabs/karate) |
 | Katalon Studio | [FlexiBerry](https://flexiberry.dev/), [Karate](https://github.com/karatelabs/karate), [REST Assured](https://rest-assured.io/) |
 | BlazeMeter / LoadNinja | [k6](https://github.com/grafana/k6), [Locust](https://github.com/locustio/locust), [Apache JMeter](https://jmeter.apache.org/) |
