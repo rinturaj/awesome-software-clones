@@ -62,6 +62,7 @@ Discover open-source projects that replicate, replace, or provide similar functi
 | Dropbox | [Nextcloud](https://github.com/nextcloud/server), [ownCloud](https://owncloud.com/) |
 | Airtable | [NocoDB](https://github.com/nocodb/nocodb), [Baserow](https://baserow.io/) |
 | Trello | [Planka](https://github.com/plankanban/planka), [Focalboard](https://www.focalboard.com/) |
+| Jira / Linear | [Plane](https://plane.so/), [Windshift](https://windshift.sh/) |
 
 ## Developer Tools
 
