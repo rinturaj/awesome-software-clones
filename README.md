@@ -124,6 +124,7 @@ Discover open-source projects that replicate, replace, or provide similar functi
 | Zendesk | [FreeScout](https://github.com/freescout-helpdesk/freescout) |
 | Slack | [Mattermost](https://github.com/mattermost/mattermost), [Zulip](https://zulip.com/) |
 | Outlook | [MailCraft](https://mailcraft.work), [Thunderbird](https://www.thunderbird.net/) |
+| Square Point of Sale / Loyverse POS | [Open POS](https://github.com/onepiece92/openPOS) |
 
 ## Analytics
 
