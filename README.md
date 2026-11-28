@@ -59,6 +59,7 @@ Discover open-source projects that replicate, replace, or provide similar functi
 | Opus Clip | [Clips Kitty](https://github.com/ColinGPT9/clips-studio) |
 | DaVinci Resolve | [Kinoklip](https://github.com/SeniorMatt/kinoklip) |
 | CapCut | [CutVoke](https://github.com/frankShan001/CutVoke) |
+| Flat.io / Noteflight | [Ploq](https://github.com/specialith/ploq-app) |
 
 ## Productivity
 
